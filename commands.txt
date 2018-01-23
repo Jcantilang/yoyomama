@@ -1,0 +1,21 @@
+
+Basic git commands: 
+1)git init - creates new repo to be published 
+2)git add - adds new  files to the repo  buffer 
+3) git commit -m "a comment of what you added" 
+4) git push origin master - published to the master branch 
+
+
+git clone - clones a repo from github to your local computer 
+
+
+basic unix/linux commands; 
+cd -change directory 
+ls - list files in current working directory 
+vim "filename" - creates a text file for you to edit 
+	write i (insert)
+	quit writing (insert) hit esc key 
+         to save a file :x! hit enter 
+	 to just exit file without saving its :q! 
+
+
